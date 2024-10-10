@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DAMZ.Cadenas/1.0.0": {
+        "runtime": {
+          "DAMZ.Cadenas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DAMZ.Cadenas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Diego Marroquin\source\repos\DAMZ\DAMZ.Cadenas\bin\Debug\net6.0\DAMZ.Cadenas.deps.json
+C:\Users\Diego Marroquin\source\repos\DAMZ\DAMZ.Cadenas\bin\Debug\net6.0\DAMZ.Cadenas.dll
+C:\Users\Diego Marroquin\source\repos\DAMZ\DAMZ.Cadenas\bin\Debug\net6.0\DAMZ.Cadenas.pdb
+C:\Users\Diego Marroquin\source\repos\DAMZ\DAMZ.Cadenas\obj\Debug\net6.0\DAMZ.Cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Marroquin\source\repos\DAMZ\DAMZ.Cadenas\obj\Debug\net6.0\DAMZ.Cadenas.AssemblyInfoInputs.cache
+C:\Users\Diego Marroquin\source\repos\DAMZ\DAMZ.Cadenas\obj\Debug\net6.0\DAMZ.Cadenas.AssemblyInfo.cs
+C:\Users\Diego Marroquin\source\repos\DAMZ\DAMZ.Cadenas\obj\Debug\net6.0\DAMZ.Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\Diego Marroquin\source\repos\DAMZ\DAMZ.Cadenas\obj\Debug\net6.0\DAMZ.Cadenas.dll
+C:\Users\Diego Marroquin\source\repos\DAMZ\DAMZ.Cadenas\obj\Debug\net6.0\refint\DAMZ.Cadenas.dll
+C:\Users\Diego Marroquin\source\repos\DAMZ\DAMZ.Cadenas\obj\Debug\net6.0\DAMZ.Cadenas.pdb
+C:\Users\Diego Marroquin\source\repos\DAMZ\DAMZ.Cadenas\obj\Debug\net6.0\ref\DAMZ.Cadenas.dll
